@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1555146914 source:c:\users\arda eden\desktop\xsenstoosc\main.c
+	"m_pd.h"
+	<string.h>
+
+1517484176 c:\users\arda eden\desktop\xsenstoosc\m_pd.h
+	<stddef.h>
+	<stdint.h>
+	<stdio.h>
+
+1555149596 source:c:\users\arda eden\desktop\mvnparse\main.c
+	"m_pd.h"
+	<string.h>
+
+1517484176 c:\users\arda eden\desktop\mvnparse\m_pd.h
+	<stddef.h>
+	<stdint.h>
+	<stdio.h>
+
